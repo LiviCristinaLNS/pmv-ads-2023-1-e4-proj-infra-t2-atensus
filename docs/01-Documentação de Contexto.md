@@ -1,6 +1,9 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+O projeto tem como proposta agilizar e melhorar a forma de como são realizados a marcação de consulta, diminuir as filas enormes que se formam em portas de hospitais públicos e diminuir a espera por um atendimento médico. 
+O projeto está sendo concentrado em disponibilizar uma forma em que o próprio paciente, marque a sua consulta, descreva seus sintomas e deixe alguma observação, como por exemplo pedido de exames ou até mesmo encaminhamento para outros profissionais. 
+Desta forma deixando de ser um peso para pacientes que necessitam de atendimento médico já que o mesmo pode fazer pelo próprio celular ou por um computador disponibilizado nos hospitais, sem gerar filas enormes e horas de espera para marcar uma consulta, assim não sobrecarregando um profissional que teria que realizar todas as coletas de dados e sintomas, por fim o projeto se torna um aliado ajudando os dois lados, tanto os profissionais quanto os pacientes.
+
 
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
